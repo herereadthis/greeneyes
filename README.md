@@ -16,7 +16,6 @@ $ npm install
 $ grunt
 ```
 
-
 #### Recommended: Add Greeneyes as a Bower dependency
 
 ```
