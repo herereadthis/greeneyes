@@ -45,10 +45,9 @@ module.exports = function(grunt) {
 
     grunt.registerTask('default', [
         'requirejs',
-        'uglify',
-        'watch'
+        'uglify'
     ]);
-    grunt.registerTask('test', [
+    grunt.registerTask('server', [
         'watch'
     ]);
 };
