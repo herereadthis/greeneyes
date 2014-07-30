@@ -1,33 +1,31 @@
-// The Color Tuner
-// takes a string of characters and gives it a color range as you define them.
-// Formatting.....
-// 
-// Required data attribute
-//     * data-module = color_tuner
-// 
-// optional data attributes
-// you can define them with 3 (e.g. "F00") or 6 (e.g. "FF0000") characters
-//     * data-color-begin = HEX_COLOR
-//     * data-color-end = HEX_COLOR
-// 
-// SAMPLE:
-// <span
-//     data-module="color_tuner"
-//     data-color-begin="F00"
-//     data-color-end="00F">Hello, World!</span>
+// The Parallax Scroller
+// takes your background and allows it scroll relative to window scroll
+
+// Your container must contain data attribute
+//  [data-module="parallax_scroll"]
+// You can set the relative scrolling with attribute
+//  [data-parallax-speed="NUMBER"]
+// Where number is expressed between '0' to '100'
+// 0 = fixed to window, and 100 = fixed to scroll
 
 (function() {
 
   define(function(require) {
-    var $, exports, gVars , makeItHappen, moduleName, bgSettings, $window;
+    var $, exports, gVars , makeItHappen, moduleName, bgSettings, scroller, $window;
     $ = require("jquery");
     exports = {};
     $window = $(window);
     moduleName = "parallax_scroll";
+    // options
+    var defaultParallaxSpeed;
+    defaultParallaxSpeed = 50;
 
     bgSettings = function($this) {
 
-        var bgPosition, bgRepeat, bgSize, bgImage;
+        var bgParam,
+            bgPosition, bgRepeat, bgSize, bgImage,
+            parallaxSpeed,
+            _i;
 
         // bgImage = $this.css('background-image');
         // bgSize = $this.css('background-size').split(' ');
@@ -40,8 +38,6 @@
             bgPosition[1] = bgPosition[0];
         }
         // it should grab top|center|etc as percentages, but we'll force it.
-        var _i, _j;
-
         for (_i = 0; _i < 2; _i++) {
             if (bgPosition[_i] === "center") {
                 bgPosition[_i] = '50%';
@@ -59,11 +55,49 @@
             }
         }
 
+        // bunch of measures to make sure there is a data attribute for parallax-speed
+        // if not, default to 50%
+        if ($this.data('parallax-speed') === undefined || $this.data('parallax-speed') === '') {
+            parallaxSpeed = defaultParallaxSpeed;
+        }
+        else {
+            parallaxSpeed = $this.data('parallax-speed');
+        }
 
-        console.log(bgPosition);
+        bgParam = {
+            bgPosition: bgPosition,
+            parallaxSpeed: parallaxSpeed
+        }
+        return bgParam;
+    };
+    scroller = function(bgParam, $this) {
+        var offsetCoords, topOffset, scrollSpeed, yPosition, newBgPosition;
+
+        // we only want the y-offset
+        offsetCoords = $this.offset(),
+        topOffset = offsetCoords.top;
+
+        $window.scroll(function() {
+            // If this section is in view
+            if ( ($window.scrollTop() + $window.height()) > (topOffset) &&
+                ( (topOffset + $this.height()) > $window.scrollTop() ) ) {
+
+                // scroll speed is a percentage of the actual scrolling
+                scrollSpeed = bgParam.parallaxSpeed / 100;
+                // y-position of background position
+                yPosition = -1 * Math.round($window.scrollTop() * scrollSpeed); 
+
+                // combine exising x-position and y-position of background-position
+                newBgPosition = bgParam.bgPosition[0] + ' ' + yPosition + 'px';
+                // console.log(bgParam.parallaxSpeed, $window.scrollTop(), yPosition);
+                // set it as css
+                $this.css('background-position', newBgPosition);
+            }
+        });
     };
     makeItHappen = function($this) {
-      return bgSettings($this);
+        var bgParam = bgSettings($this);
+        scroller(bgParam, $this);
     };
     exports.init = function($this) {
         var element;
