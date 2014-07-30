@@ -24,6 +24,19 @@ module.exports = function(grunt) {
                 }
             }
         },
+        less: {
+            greeneyes: {
+                options: {
+                    paths: ["<%= paths.src %>/less"],
+                    // yuicompress: true,
+                    // compress: true,
+                    cleancss: true
+                },
+                files: {
+                    "<%= paths.build %>/css/greeneyes.css": "./src/less/greeneyes.less"
+                }
+            }
+        },
         uglify: {
             options: {
                 preserveComments: false
@@ -44,6 +57,7 @@ module.exports = function(grunt) {
     });
 
     grunt.registerTask('default', [
+        'less',
         'requirejs',
         'uglify'
     ]);
