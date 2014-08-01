@@ -13,6 +13,7 @@ Greeneyes is an AMD Javascript library of utility modules made for RequireJS"
 $ git clone https://github.com/herereadthis/greeneyes.git
 $ cd greeneyes/
 $ npm install
+$ bower install
 $ grunt
 ```
 
