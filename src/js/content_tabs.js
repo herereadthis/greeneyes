@@ -1,4 +1,8 @@
 // Content Tabs
+//
+// This module creates a box with a list of tabs at the top that will switch
+// out the content below
+// https://github.com/herereadthis/greeneyes/blob/master/src/js/content_tabs.js
 
 (function() {
     define(['jquery'], function($) {

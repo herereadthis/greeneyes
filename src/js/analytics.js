@@ -1,7 +1,14 @@
 // Google Analytics, defined as an AMD for RequireJS
+//
+// This module replaces the standard Google analytics plugin.
+// https://github.com/herereadthis/greeneyes/blob/master/src/js/analytics.js
+//
+// The main advantage here is that you will get to remove inline JavaScript on
+// your page. Note: Unlike the other Greeneyes modules, this one does not need
+// a [data-module=""] attribute.
 
 (function() {
-    define(function(require) {
+    define(['jquery'], function($) {
         var $, exports;
         $ = require("jquery");
         exports = {

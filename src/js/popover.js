@@ -1,4 +1,10 @@
 // Content Tabs
+//
+// This module will create tiny modals that will appear adjacent to the item on
+// which you click.
+// https://github.com/herereadthis/greeneyes/blob/master/src/js/popover.js
+// 
+// It is useful for displaying help text.
 
 (function() {
     define(['jquery'], function($) {

@@ -1,6 +1,6 @@
 {
   "name": "greeneyes",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "AMD Javascript library of utility modules made for RequireJS",
   "main": "index.html",
   "scripts": {

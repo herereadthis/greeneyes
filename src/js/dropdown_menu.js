@@ -1,4 +1,8 @@
 // Drop Down Menu
+//
+// This module will create a nested menu where the child elements will be
+// hidden by default and are toggled into view by clicking on the parent items.
+// https://github.com/herereadthis/greeneyes/blob/master/src/js/dropdown_menu.js
 
 (function() {
     define(['jquery'], function($) {
