@@ -33,7 +33,8 @@ module.exports = function(grunt) {
                     cleancss: true
                 },
                 files: {
-                    "<%= paths.build %>/css/greeneyes.css": "./src/less/greeneyes.less"
+                    "<%= paths.build %>/css/greeneyes.css": "<%= paths.src %>/less/greeneyes.less",
+                    "<%= paths.build %>/css/demo.css": "<%= paths.src %>/less/demo.less"
                 }
             }
         },

@@ -9,9 +9,12 @@
             "DropdownMenu": "dropdown_menu",
             // jQuery
             "jquery": '../components/jquery/dist/jquery.min',
+            // demo
+            "demo": '../../demo/js/demo'
         }
     });
-    require(['jquery', 'Analytics'], function($, Analytics) {
+    require(['demo', 'Analytics'], function(Demo, Analytics) {
+        Demo.init();
         return Analytics.track();
     });
 }).call(this);

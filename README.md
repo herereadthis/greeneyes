@@ -17,6 +17,14 @@ $ bower install
 $ grunt
 ```
 
+## View the Demo
+
+```
+$ python -m SimpleHTTPServer 8001
+```
+
+The demo page will become available at [http://localhost:8001/demo/](http://localhost:8001/demo/).
+
 #### Recommended: Add Greeneyes as a Bower dependency
 
 ```

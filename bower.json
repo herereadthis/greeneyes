@@ -26,7 +26,10 @@
   ],
   "dependencies": {
     "requirejs": "~2.1.14",
-    "jquery": "~2.1.1"
+    "jquery": "~2.1.1",
+    "sunflash": "~0.1.5",
+    "mossflower": "~0.1.6",
+    "bellmaker": "~0.3.5"
   },
   "resolutions": {
     "jquery": "~2.1.1"

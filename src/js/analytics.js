@@ -9,9 +9,7 @@
 
 (function() {
     define(['jquery'], function($) {
-        var $, exports;
-        $ = require("jquery");
-        exports = {
+        var exports = {
             track: function(accountId) {
                 var ga, s, _gaq;
                 accountId = $("body").data("google-analytics") || accountId;
