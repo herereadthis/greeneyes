@@ -6,6 +6,9 @@
 // The main advantage here is that you will get to remove inline JavaScript on
 // your page. Note: Unlike the other Greeneyes modules, this one does not need
 // a [data-module=""] attribute.
+//
+// To trigger this, return Analytics.track() in your main.js file
+// In your HTML, specify at <body data-google-analytics="MY_GA_NUMBER" />
 
 (function() {
     define(['jquery'], function($) {
