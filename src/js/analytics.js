@@ -9,6 +9,8 @@
 //
 // To trigger this, return Analytics.track() in your main.js file
 // In your HTML, specify at <body data-google-analytics="MY_GA_NUMBER" />
+// Or you can return Analytics.track('MY_GA_NUMBER') and don't put anything in
+// the body tag.
 
 (function() {
     define(['jquery'], function($) {

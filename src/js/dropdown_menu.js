@@ -6,12 +6,26 @@
 
 (function() {
     define(['jquery'], function($) {
-        var exports,  makeItHappen, moduleName;
+        var exports,  makeItHappen, moduleName, clickSetter;
         exports = {};
         moduleName = "dropdown_menu";
 
+        clickSetter = function($this) {
+            var topLevelItems = $this.children('li');
+
+            topLevelItems.each(function() {
+                // console.log($(this).html());
+                var $link = $(this).children('a');
+                $link.on('click', function(e) {
+                    e.preventDefault();
+                    console.log($(this).html());
+                });
+            });
+
+        };
         makeItHappen = function($this) {
-            console.log($this.html());
+            clickSetter($this);
+            // console.log($this.html());
         };
         exports.init = function($this) {
             var element;

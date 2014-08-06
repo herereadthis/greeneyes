@@ -1,6 +1,6 @@
 (function() {
 
-  define([], function() {
+  define(['DropdownMenu'], function(DropdownMenu) {
     var exports, gVars, makeItHappen, moduleName;
     exports = {};
     gVars = {};
@@ -8,7 +8,8 @@
 
     makeItHappen = function($this) {
         // purchase.purchaseProduct();
-        console.log('foo');
+        console.log('foo bar');
+        DropdownMenu.init();
     };
     exports.init = function($this) {
         var $element;

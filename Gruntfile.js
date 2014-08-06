@@ -51,7 +51,7 @@ module.exports = function(grunt) {
         watch: {
             // runs less task when any less files change
             js: {
-                files: ['./src/js/*'],
+                files: ['./src/js/*', './demo/js/*'],
                 tasks: ['requirejs']
             }
         }
