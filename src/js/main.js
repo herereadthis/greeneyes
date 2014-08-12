@@ -7,6 +7,7 @@
             "ContentTabs": "content_tabs",
             "AccordionContent": "accordion_content",
             "DropdownMenu": "dropdown_menu",
+            "CookieDough": "cookie_dough",
             // jQuery
             "jquery": '../components/jquery/dist/jquery.min',
             // demo
