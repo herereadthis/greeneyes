@@ -2,7 +2,8 @@
     requirejs.config({
         paths: {
             // google analytics
-            "Analytics": "analytics",
+            "Analytics": "google_analytics_universal",
+            // "Analytics": "google_analytics_classic",
             "Popover": "popover",
             "ContentTabs": "content_tabs",
             "AccordionContent": "accordion_content",
