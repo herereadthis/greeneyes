@@ -9,6 +9,7 @@
             "AccordionContent": "accordion_content",
             "DropdownMenu": "dropdown_menu",
             "CookieDough": "cookie_dough",
+            'ColorShift': 'color_shift',
             // jQuery
             "jquery": '../components/jquery/dist/jquery.min',
             // demo
