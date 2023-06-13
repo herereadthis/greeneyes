@@ -212,8 +212,8 @@ These prices are accurate as of 12 June:
             <th>Speed</th>
             <th>B&H</th>
             <th>Freestyle</th>
-            <th>Breakeven/80</th>
-            <th>Breakeven/150</th>
+            <th>Break/80</th>
+            <th>Break/150</th>
     </thead>
     <tbody>
         <tr>

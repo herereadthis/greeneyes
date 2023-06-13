@@ -5,6 +5,7 @@
   * Ilford HP5+
   * Ilford Delta 400
   * Kodak Tri-X 400
+* [Black and White Developers](./bw_developers/)
 * [C-41 (color negative) Film](./c41_film/)
   * Cinestill 800T
   * Kodak Ektar 100
