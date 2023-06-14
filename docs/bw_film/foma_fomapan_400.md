@@ -14,33 +14,21 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <th>Formula</th>
             <th>EI</th>
             <th>Time</th>
+            <th>1st Min Agit.</th>
+            <th>Agit every min</th>
             <th>Notes</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Ilford</td>
-            <td>Microphen</td>
-            <td>Stock</td>
-            <td>400</td>
-            <td>9</td>
-            <td>[Youtube](https://www.youtube.com/watch?v=AeaCZOdLSH8)</td>
-        </tr>
-        <tr>
-            <td>Kodak</td>
-            <td>Xtol</td>
-            <td>Stock</td>
-            <td>1600</td>
-            <td>14</td>
-            <td>[Youtube](https://www.youtube.com/watch?v=puTMQ5Odo9g)</td>
-        </tr>
         <tr>
             <td>Adox</td>
             <td>Rodinal</td>
             <td>1:25</td>
             <td>100</td>
             <td>4</td>
-            <td>[Youtube](https://www.youtube.com/watch?v=m6wie6rtOeg)</td>
+            <td>unknown</td>
+            <td>unknown</td>
+            <td><a href="https://www.youtube.com/watch?v=m6wie6rtOeg">Youtube</a></td>
         </tr>
         <tr>
             <td>Adox</td>
@@ -48,7 +36,9 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <td>1:25</td>
             <td>400</td>
             <td>5.5</td>
-            <td>[Youtube](https://www.youtube.com/watch?v=m6wie6rtOeg)</td>
+            <td>unknown</td>
+            <td>unknown</td>
+            <td><a href="https://www.youtube.com/watch?v=m6wie6rtOeg">Youtube</a></td>
         </tr>
         <tr>
             <td>Adox</td>
@@ -56,7 +46,59 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <td>1:49</td>
             <td>200</td>
             <td>11</td>
-            <td>[Youtube](https://www.youtube.com/watch?v=AeaCZOdLSH8)</td>
+            <td>unknown</td>
+            <td>unknown</td>
+            <td><a href="https://www.youtube.com/watch?v=AeaCZOdLSH8">Youtube</a></td>
+        </tr>
+        <tr>
+            <td>Ilford</td>
+            <td>Ilfotec DD-X</td>
+            <td>1+9</td>
+            <td>800</td>
+            <td>18</td>
+            <td>60s</td>
+            <td>10s</td>
+            <td><a href="https://alysvintagecameraalley.com/2021/02/24/developing-adventures-pushing-fomapan-400/">Blog</a></td>
+        </tr>
+        <tr>
+            <td>Ilford</td>
+            <td>Microphen</td>
+            <td>Stock</td>
+            <td>400</td>
+            <td>9</td>
+            <td>unknown</td>
+            <td>unknown</td>
+            <td><a href="https://www.youtube.com/watch?v=AeaCZOdLSH8">Youtube</a></td>
+        </tr>
+        <tr>
+            <td>Kodak</td>
+            <td>HC-110</td>
+            <td>1+31</td>
+            <td>800</td>
+            <td>9</td>
+            <td>30s</td>
+            <td>10s</td>
+            <td><a href="https://alysvintagecameraalley.com/2021/03/26/developing-adventures-pushing-arista-edu-400-to-800/">Blog</a></td>
+        </tr>
+        <tr>
+            <td>Kodak</td>
+            <td>HC-110</td>
+            <td>1+31</td>
+            <td>1600</td>
+            <td>13</td>
+            <td>30s</td>
+            <td>10s</td>
+            <td><a href="https://alysvintagecameraalley.com/2021/03/08/pushing-fomapan-400-to-1600/">Blog</a></td>
+        </tr>
+        <tr>
+            <td>Kodak</td>
+            <td>Xtol</td>
+            <td>Stock</td>
+            <td>1600</td>
+            <td>14</td>
+            <td>unknown</td>
+            <td>unknown</td>
+            <td><a href="https://www.youtube.com/watch?v=puTMQ5Odo9g">Youtube</a></td>
         </tr>
     </tbody>
 </table>
@@ -64,6 +106,17 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
 
 ## Reviews
 
+### Blogs
+* [Aly’s Vintage Camera Alley](https://alysvintagecameraalley.com/)
+  * [Developing Adventures – Pushing Fomapan 400 to 1600](https://alysvintagecameraalley.com/2021/03/08/pushing-fomapan-400-to-1600/)
+    * Kodak HC-110 Dilution B (1+31), 13 minutes, initial 30s agigation, 5 every minute
+    * Grainy but usable
+  * [Developing Adventures – Pushing Fomapan 400 to 800](https://alysvintagecameraalley.com/2021/02/24/developing-adventures-pushing-fomapan-400/)
+    * Ilford Ilfotec DD-X (1+9), 18 minutes, agitate 1st minute, 10 seconds every other minute
+    * Indoor images very usable, more grain outdoors
+  * [Developing Adventures – Pushing Arista EDU 400 to 800](https://alysvintagecameraalley.com/2021/03/26/developing-adventures-pushing-arista-edu-400-to-800/)
+    * Kodak HC-110 Dilution B (1+31), 13 minutes, initial 30s agigation, 5 every minute
+    * Not as usable as pushed in DD-X
 ### Youtube
 
 * Brian's Photo Show: [What works for me: Fomapan 400 in Rodinal](https://www.youtube.com/watch?v=AeaCZOdLSH8)
