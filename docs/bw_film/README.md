@@ -213,6 +213,7 @@ These prices are accurate as of 12 June:
             <th>Speed</th>
             <th>B&H</th>
             <th>Freestyle</th>
+            <th>36exp/Avg</th>
             <th>Break/80</th>
             <th>Break/150</th>
     </thead>
@@ -223,6 +224,7 @@ These prices are accurate as of 12 June:
             <td>100</td>
             <td>63.99</td>
             <td>63.99</td>
+            <td>5.89</td>
             <td>2</td>
             <td>4</td>
         </tr>
@@ -232,6 +234,7 @@ These prices are accurate as of 12 June:
             <td>200</td>
             <td>63.99</td>
             <td>63.99</td>
+            <td>5.99</td>
             <td>2</td>
             <td>4</td>
         </tr>
@@ -241,6 +244,7 @@ These prices are accurate as of 12 June:
             <td>400</td>
             <td>63.99</td>
             <td>63.99</td>
+            <td>asdf</td>
             <td>2</td>
             <td>4</td>
         </tr>
@@ -250,6 +254,7 @@ These prices are accurate as of 12 June:
             <td>100</td>
             <td>N/A</td>
             <td>69.99</td>
+            <td>6.29</td>
             <td>2</td>
             <td>4</td>
         </tr>
@@ -259,6 +264,7 @@ These prices are accurate as of 12 June:
             <td>200</td>
             <td>N/A</td>
             <td>69.99</td>
+            <td>6.49</td>
             <td>2</td>
             <td>4</td>
         </tr>
@@ -268,6 +274,7 @@ These prices are accurate as of 12 June:
             <td>400</td>
             <td>69.99</td>
             <td>69.99</td>
+            <td>6.49</td>
             <td>2</td>
             <td>4</td>
         </tr>
@@ -277,6 +284,7 @@ These prices are accurate as of 12 June:
             <td>100</td>
             <td>131.95</td>
             <td>114.99</td>
+            <td>11.99</td>
             <td>1</td>
             <td>2</td>
         </tr>
@@ -286,6 +294,7 @@ These prices are accurate as of 12 June:
             <td>400</td>
             <td>137.95</td>
             <td>134.99</td>
+            <td>11.50</td>
             <td>2</td>
             <td>3</td>
         </tr>
@@ -295,6 +304,7 @@ These prices are accurate as of 12 June:
             <td>125</td>
             <td>124.95</td>
             <td>109.99</td>
+            <td>9.50</td>
             <td>2</td>
             <td>3</td>
         </tr>
@@ -304,6 +314,7 @@ These prices are accurate as of 12 June:
             <td>400</td>
             <td>116.95</td>
             <td>109.99</td>
+            <td>9.22</td>
             <td>2</td>
             <td>3</td>
         </tr>
@@ -313,6 +324,7 @@ These prices are accurate as of 12 June:
             <td>50</td>
             <td>124.50</td>
             <td>109.99</td>
+            <td>12.24</td>
             <td>2</td>
             <td>2</td>
         </tr>
@@ -322,6 +334,7 @@ These prices are accurate as of 12 June:
             <td>100</td>
             <td>74.95</td>
             <td>72.99</td>
+            <td>6.01</td>
             <td>2</td>
             <td>5</td>
         </tr>
@@ -331,6 +344,7 @@ These prices are accurate as of 12 June:
             <td>400</td>
             <td>71.38</td>
             <td>72.99</td>
+            <td>6.30</td>
             <td>2</td>
             <td>4</td>
         </tr>
@@ -340,6 +354,7 @@ These prices are accurate as of 12 June:
             <td>100</td>
             <td>159.95</td>
             <td>167.99</td>
+            <td>11.99</td>
             <td>2</td>
             <td>3</td>
         </tr>
@@ -349,6 +364,7 @@ These prices are accurate as of 12 June:
             <td>400</td>
             <td>169.95</td>
             <td>174.99</td>
+            <td>11.99</td>
             <td>2</td>
             <td>4</td>
         </tr>
@@ -358,6 +374,7 @@ These prices are accurate as of 12 June:
             <td>400</td>
             <td>159.95</td>
             <td>189.99</td>
+            <td>12.99</td>
             <td>2</td>
             <td>3</td>
         </tr>
@@ -367,6 +384,7 @@ These prices are accurate as of 12 June:
             <td>80</td>
             <td>99.99</td>
             <td>99.99</td>
+            <td>7.99</td>
             <td>2</td>
             <td>3</td>
         </tr>

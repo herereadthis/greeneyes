@@ -8,6 +8,7 @@
   * Kodak Tri-X 400
 * [Black and White Developers](./bw_developers/)
   * [Kodak T-Max](./bw_developers/kodak_tmax.md)
+  * [Kodak Xtol | Fomadon Excel | LegacyPro EcoPro](./bw_developers/kodak_xtol.md)
 * [C-41 (color negative) Film](./c41_film/)
   * Cinestill 800T
   * [Kodak Ektar 100](./c41_film/kodak_ektar_100.md)
