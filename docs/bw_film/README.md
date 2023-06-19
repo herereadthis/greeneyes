@@ -195,6 +195,14 @@ These prices are accurate as of 12 June:
             <td>7.99</td>
             <td>N/A</td>
         </tr>
+        <tr>
+            <td>Rollei</td>
+            <td>Retro 400s</td>
+            <td>400</td>
+            <td>7.99</td>
+            <td>7.99</td>
+            <td>N/A</td>
+        </tr>
     </tbody>
 </table>
 
@@ -244,7 +252,7 @@ These prices are accurate as of 12 June:
             <td>400</td>
             <td>63.99</td>
             <td>63.99</td>
-            <td>asdf</td>
+            <td>5.99</td>
             <td>2</td>
             <td>4</td>
         </tr>
@@ -382,6 +390,16 @@ These prices are accurate as of 12 June:
             <td>Rollei</td>
             <td>Retro 80s</td>
             <td>80</td>
+            <td>99.99</td>
+            <td>99.99</td>
+            <td>7.99</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Rollei</td>
+            <td>Retro 400s</td>
+            <td>400</td>
             <td>99.99</td>
             <td>99.99</td>
             <td>7.99</td>

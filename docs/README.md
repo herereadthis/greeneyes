@@ -21,3 +21,8 @@
   * Fuji Velvia 100
   * Fuji Provia 100
   * Kodak Ektachrome (new formulation)
+* [Miscellaneous Chemistry](./misc_chemistry/)
+  * [Black and white stop bath](./misc_chemistry/bw_stop_bath.md)
+  * [Black and white fixers](./misc_chemistry/bw_fixers.md)
+* [Accessories](./accessories/)
+  * [Filters for Black and White Photography](./accessories/bw_filters.md)

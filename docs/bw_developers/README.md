@@ -1,6 +1,7 @@
 # Black and White Developers
 
 ## Agitation
+
 * Source: Naked Photographer | [How To Agitate Your Film](https://www.youtube.com/watch?v=CLf271GhK1M)
 * Ilford Method
   * 4 inversions to last a total of 10 seconds. (1.25s per flip)
