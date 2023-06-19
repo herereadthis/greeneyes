@@ -3,9 +3,9 @@
 * [Black and White Film](./bw_film/)
   * CatLABS X FILM 320 Pro
   * [Foma Fomapan Action 400 (Arista EDU 400)](./bw_film/foma_fomapan_400.md)
-  * Ilford HP5+
+  * [Ilford HP5 Plus](./bw_film/ilford_hp5.md)
   * Ilford Delta 400
-  * Kodak Tri-X 400
+  * [Kodak Tri-X 400](./bw_film/kodak_tri-x.md)
 * [Black and White Developers](./bw_developers/)
   * [Kodak T-Max](./bw_developers/kodak_tmax.md)
   * [Kodak Xtol | Fomadon Excel | LegacyPro EcoPro](./bw_developers/kodak_xtol.md)
@@ -25,4 +25,5 @@
   * [Black and white stop bath](./misc_chemistry/bw_stop_bath.md)
   * [Black and white fixers](./misc_chemistry/bw_fixers.md)
 * [Accessories](./accessories/)
+  * [Density Meters](./accessories/density_meters.md)
   * [Filters for Black and White Photography](./accessories/bw_filters.md)

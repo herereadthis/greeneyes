@@ -5,9 +5,9 @@ Probably going to be the most technical notes, as there are so many options for 
 
 * CatLABS X FILM 320 Pro
 * [Foma Fomapan Action 400 (Arista EDU 400)](./foma_fomapan_400.md)
-* Ilford HP5+
+* [Ilford HP5 Plus](./ilford_hp5.md)
 * Ilford Delta 400
-* Kodak Tri-X 400
+* [Kodak Tri-X 400](./kodak_tri-x.md)
 
 ## Pricing
 
