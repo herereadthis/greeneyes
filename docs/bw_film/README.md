@@ -1,13 +1,21 @@
 # Black and White film
 
-Probably going to be the most technical notes, as there are so many options for experiementation.
-
 
 * CatLABS X FILM 320 Pro
 * [Foma Fomapan Action 400 (Arista EDU 400)](./foma_fomapan_400.md)
 * [Ilford HP5 Plus](./ilford_hp5.md)
 * Ilford Delta 400
 * [Kodak Tri-X 400](./kodak_tri-x.md)
+* [Rollei Retro 80s](./rollei_retro_80s.md)
+* [Rollei Retro 400s](./rollei_retro_400s.md)
+
+## Grain
+
+Black and white films are either "tabular" grain or "cubic" grain, also known as "t-grain" and "classic grain," respectively. Tabular grain means the grain crystals are flat and so they coat the film base more evenly. From a manufacturing standpoint, they require less silver.
+
+The only t-grain films are the Kodak T-Max line, Ilford Delta line, Fuji Acros, and Foma Fomapan 200. All other films are cubic grain.
+
+Compared against cubic-grain films, t-grain films are sharper and have less apparent grain. The advantages of cubic grain films are they have more latitude and and are more forgiving. Subjectively, cubic-grain films have a more "film-like" appearance.
 
 ## Pricing
 

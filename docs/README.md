@@ -6,6 +6,8 @@
   * [Ilford HP5 Plus](./bw_film/ilford_hp5.md)
   * Ilford Delta 400
   * [Kodak Tri-X 400](./bw_film/kodak_tri-x.md)
+  * [Rollei Retro 80s](./bw_film/rollei_retro_80s.md)
+  * [Rollei Retro 400s](./bw_film/rollei_retro_400s.md)
 * [Black and White Developers](./bw_developers/)
   * [Kodak T-Max](./bw_developers/kodak_tmax.md)
   * [Kodak Xtol | Fomadon Excel | LegacyPro EcoPro](./bw_developers/kodak_xtol.md)
