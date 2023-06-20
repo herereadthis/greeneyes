@@ -1,5 +1,16 @@
 # Black and White Developers
 
+Unlike the C-41 process for color negative films, there are limitless possibilities for black and white film development. 
+
+* You can try different developers
+* You can try developers at different dilutions
+* Any temperature is fine. There's more contrast and more grain at higher temperatures. However, most guides use 20&deg;C
+
+## Solvent Developers
+
+* Solvent developers produce finer grain by allowing the silver to distribute and form smaller clumps.
+* The tradeoff is solvent developers will appear less sharp.
+
 ## Agitation
 
 * Source: Naked Photographer | [How To Agitate Your Film](https://www.youtube.com/watch?v=CLf271GhK1M)

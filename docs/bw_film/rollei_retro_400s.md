@@ -2,7 +2,7 @@
 
 Rollei Retro 400s is a 400 ISO film. I can be pushed to 800.
 
-* [Technical Data Sheet](./rollei_retro_400s.md)
+* [Technical Data Sheet](./rollei_retro_400s.pdf)
 * Push one stop: base time &times; 1.33
 * Push two stops: base time &times; 1.33^2
 * It might be the same film as JCH StreetPan 400
@@ -68,4 +68,3 @@ Rollei Retro 400s is a 400 ISO film. I can be pushed to 800.
   * High contrast, deep blacks
   * compares favorably to [Tri-X](./kodak_tri-x.md), T-Max, Kentmere Pan
 * Blue Moon Camera - [Film Friday - March 31st, 2023. Rollei Retro 400S](https://bluemooncameracodex.com/film-fridays/rollei-retro-400s)
-  * D
