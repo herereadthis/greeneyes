@@ -9,6 +9,7 @@
   * [Rollei Retro 80s](./bw_film/rollei_retro_80s.md)
   * [Rollei Retro 400s](./bw_film/rollei_retro_400s.md)
 * [Black and White Developers](./bw_developers/)
+  * [Ilford Ilfotec DD-X](./bw_developers/ilford_ilfotec_ddx.md)
   * [Kodak T-Max](./bw_developers/kodak_tmax.md)
   * [Kodak Xtol | Fomadon Excel | LegacyPro EcoPro](./bw_developers/kodak_xtol.md)
 * [C-41 (color negative) Film](./c41_film/)

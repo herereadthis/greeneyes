@@ -51,6 +51,16 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <td><a href="https://www.youtube.com/watch?v=AeaCZOdLSH8">Youtube</a></td>
         </tr>
         <tr>
+            <td>Adox</td>
+            <td>Rodinal</td>
+            <td>1:100</td>
+            <td>1600</td>
+            <td>60</td>
+            <td>30s</td>
+            <td>10s @ 30min</td>
+            <td><a href="https://www.reddit.com/r/Darkroom/comments/tastyq/any_toughts_on_this_fomapan_400_pushed_till_3200/">Reddit</a></td>
+        </tr>
+        <tr>
             <td>Ilford</td>
             <td>Ilfotec DD-X</td>
             <td>1+9</td>
@@ -127,6 +137,7 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
   * [Developing Adventures – Pushing Arista EDU 400 to 800](https://alysvintagecameraalley.com/2021/03/26/developing-adventures-pushing-arista-edu-400-to-800/)
     * Kodak HC-110 Dilution B (1+31), 13 minutes, initial 30s agigation, 5 every minute
     * Not as usable as pushed in DD-X
+
 ### Youtube
 
 * Brian's Photo Show: [What works for me: Fomapan 400 in Rodinal](https://www.youtube.com/watch?v=AeaCZOdLSH8)
@@ -171,5 +182,11 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
 * Shot on Film: [Learning by doing -- what to do with Fomapan 400 film?](https://www.youtube.com/watch?v=puTMQ5Odo9g) | pushed to 1600: Xtol stock, 14 minutes
   * Walk Like Alice [POV black & white FILM PHOTOGRAPHY | Ilford HP5 and Fomapan...](https://www.youtube.com/watch?v=MYWAFSzgWdc) | it scans well
   * Zij. Li: [Paris with Fomapan 400 + 2 Stop Pushing](https://www.youtube.com/watch?v=znbMa66oihg) | just a slideshow
+
+  ### Reddit
+
+  * [Any toughts on this fomapan 400 pushed till 3200?](https://www.reddit.com/r/Darkroom/comments/tastyq/any_toughts_on_this_fomapan_400_pushed_till_3200/)
+    * Semi Stand Rodinal 1:100 Rodinal, EI 3200
+    * 30 seconds initial agitation, 10 second agitation (4 inversions) at 30 minutes
 
 
