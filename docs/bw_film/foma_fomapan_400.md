@@ -92,6 +92,16 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
         </tr>
         <tr>
             <td>Kodak</td>
+            <td><a href="../bw_developers/kodak_tmax.md">T-Max</a></td>
+            <td>1+4</td>
+            <td>400</td>
+            <td>8</td>
+            <td>5/5 * 2</td>
+            <td>5/5 * 2</td>
+            <td><a href="https://www.digitaltruth.com/devchart.php?Film=Fomapan+400&Developer=TMax+Dev%25&mdc=Search&TempUnits=C&TimeUnits=D">MDC</a>, <a href="https://www.flickr.com/photos/axle81401/26081179707">Flickr</a></td>
+        </tr>
+        <tr>
+            <td>Kodak</td>
             <td>Xtol</td>
             <td>Stock</td>
             <td>1600</td>
