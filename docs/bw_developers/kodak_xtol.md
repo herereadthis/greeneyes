@@ -12,6 +12,7 @@ Xtol is Kodak's last developer, and many claim to be their best. Of developers c
 * Xtol does not contain hydroquinone. It uses ascorbic acid (vitamin C) and Phenidone as developing agents
 * Xtol is a solvent developer. It produces fine grain with some loss of sharpness.
 * Dilute Xtol 1:1 to gain sharpness and increased grain
+* Xtol does not reduce film speed
 
 ## Inversions
 
