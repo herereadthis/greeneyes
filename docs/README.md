@@ -15,7 +15,8 @@
 * [C-41 (color negative) Film](./c41_film/)
   * Cinestill 800T
   * [Kodak Ektar 100](./c41_film/kodak_ektar_100.md)
-  * Kodak Portra 160
+  * [Kodak Gold 200](./c41_film/kodak_gold_200.md)
+  * [Kodak Portra 160](./c41_film/kodak_portra_160.md)
   * [Kodak Portra 400](./c41_film/kodak_portra_400.md)
   * Lomography 400
   * Lomography Lomochrome Purple

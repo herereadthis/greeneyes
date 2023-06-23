@@ -2,6 +2,7 @@
 
 If every color film died and only one remained, I hope it would be Portra 400. This is the most versatile film currently in production.
 
+* [Technical Data Sheet](./kodak_portra_400.pdf)
 * Smallest grain of all ISO 400 films
 * Medium saturaturation
 * Tolerates some underexposure

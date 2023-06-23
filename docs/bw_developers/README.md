@@ -15,6 +15,11 @@ Unlike the C-41 process for color negative films, there are limitless possibilit
 * [Kodak T-Max | LegacyPro LMAX](./kodak_tmax.md)
 * [Kodak Xtol | Fomadon Excel | LegacyPro EcoPro](./kodak_xtol.md)
 
+## Other Technical Sheets
+
+* [Kodak Devolopers Overview](./kodak_developers.pdf)
+* [Kodak Black and White Processing](./kodak_processing.pdf)
+
 ## Solvent Developers
 
 * Solvent developers produce finer grain by allowing the silver to distribute and form smaller clumps.

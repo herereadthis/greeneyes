@@ -1,5 +1,6 @@
 # Black and White film
 
+## Film Guides
 
 * [CatLABS X FILM 320 Pro](./catlabs_x_film_320.md)
 * [Foma Fomapan Action 400 (Arista EDU 400)](./foma_fomapan_400.md)
@@ -8,6 +9,10 @@
 * [Kodak Tri-X 400](./kodak_tri-x.md)
 * [Rollei Retro 80s](./rollei_retro_80s.md)
 * [Rollei Retro 400s](./rollei_retro_400s.md)
+
+## Other Technical Sheets
+
+* [Kodak Processing Guide](./kodak_processing.pdf)
 
 ## Grain
 
