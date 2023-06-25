@@ -7,6 +7,6 @@ Reviews and notes for most common film:
 * [Kodak Gold 200](./kodak_gold_200.md)
 * [Kodak Portra 160](./kodak_portra_160.md)
 * [Kodak Portra 400](./kodak_portra_400.md)
-* Lomography Lomochrome Purple
+* [Lomography Lomochrome Purple](./lomography_lomochrome_purple.md)
 * [Lomography Lomochrome Metropolis](./lomography_lomochrome_metropolis.md)
 * Lomography 400

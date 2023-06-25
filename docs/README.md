@@ -19,12 +19,13 @@
   * [Kodak Portra 160](./c41_film/kodak_portra_160.md)
   * [Kodak Portra 400](./c41_film/kodak_portra_400.md)
   * Lomography 400
-  * Lomography Lomochrome Purple
+  * [Lomography Lomochrome Purple](./c41_film/lomography_lomochrome_purple.md)
   * [Lomography Lomochrome Metropolis](./c41_film/lomography_lomochrome_metropolis.md)
 * [E6 (color slide) Film](./e6_film/)
   * Fuji Velvia 100
   * Fuji Provia 100
   * Kodak Ektachrome (new formulation)
+* [ECN-2 (motion picture color negative) Film](./ecn-2_film/)
 * [Miscellaneous Chemistry](./misc_chemistry/)
   * [Black and white stop bath](./misc_chemistry/bw_stop_bath.md)
   * [Black and white fixers](./misc_chemistry/bw_fixers.md)
