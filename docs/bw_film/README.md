@@ -6,6 +6,7 @@
 * [Foma Fomapan Action 400 (Arista EDU 400)](./foma_fomapan_400.md)
 * [Ilford HP5 Plus](./ilford_hp5.md)
 * Ilford Delta 400
+* [Ilford Kentmere Pan 400](./ilford_kentmere_pan_400.md)
 * [Kodak Tri-X 400](./kodak_tri-x.md)
 * [Rollei Retro 80s](./rollei_retro_80s.md)
 * [Rollei Retro 400s](./rollei_retro_400s.md)

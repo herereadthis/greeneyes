@@ -20,8 +20,10 @@ Unlike the C-41 process for color negative films, there are limitless possibilit
 
 ## Other Technical Sheets
 
-* [Kodak Devolopers Overview](./kodak_developers.pdf)
-* [Kodak Black and White Processing](./kodak_processing.pdf)
+* Convesion tables: [Kodak vs. Foma](./conversion_kodak_foma.pdf) | [Kodak vs. Ilford](./conversion_kodak_ilford.pdf)
+* [Foma Fomadon Developers](./foma_fomadon.pdf)
+* [Ilford Film Processing Chart](./ilford_developers.pdf)
+* Kodak: [Devolopers Overview](./kodak_developers.pdf) | [Black and White Processing](./kodak_processing.pdf)
 
 ## Solvent Developers
 
