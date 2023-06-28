@@ -2,7 +2,7 @@
 
 
 
-* [Technical Data Sheet](./kodak_tmax.pdf)
+* [Technical Data Sheet](./resources/kodak_tmax.pdf)
 
 ## Notes
 
@@ -102,6 +102,6 @@
   * Rolls 9-12: normal time + 2 minutes
 
 ## Inversions
-* [Technical Data Sheet](./kodak_tmax.pdf)
+* [Technical Data Sheet](./resources/kodak_tmax.pdf)
 
 * Kodak recommends 5-7 inversions to last 5 seconds. Repeat every 30 seconds

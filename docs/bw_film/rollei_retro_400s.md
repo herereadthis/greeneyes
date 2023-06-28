@@ -2,7 +2,7 @@
 
 Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of 400. It can be pushed to 800.
 
-* [Technical Data Sheet](./rollei_retro_400s.pdf)
+* [Technical Data Sheet](./resources/rollei_retro_400s.pdf)
 * It is unlikely a true ISO 400 film
 * Push one stop: base time &times; 1.33
 * Push two stops: base time &times; 1.33^2
@@ -14,7 +14,7 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
 ## What is it, really?
 
 * Retro 400s is distributed by Maco Direct, Germany; produced by Agfa Gavaert in Belgium
-* It might be Agfa aerial surveillance film Aviphot 200 ([technical data sheet](./agfa_aviphot_pan_200.pdf)) or Aviphot 400 ([technical data sheet](./agfa_aviphot_pan_400.pdf))
+* It might be Agfa aerial surveillance film Aviphot 200 ([technical data sheet](./resources/agfa_aviphot_pan_200.pdf)) or Aviphot 400 ([technical data sheet](./resources/agfa_aviphot_pan_400.pdf))
 * It might be the same thing as [CatLABS X 320 Pro](./catlabs_x_film_320.md)
 * It also might be JCH Streetpan 400
 

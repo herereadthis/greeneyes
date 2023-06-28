@@ -13,7 +13,7 @@
 
 ## Other Technical Sheets
 
-* [Kodak Processing Guide](./kodak_processing.pdf)
+* [Kodak Film Processing Guide](./resources/kodak_film_processing.pdf)
 
 ## Grain
 

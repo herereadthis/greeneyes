@@ -1,6 +1,6 @@
 # Filters for Black and White Photography
 
-* [Kodak Technical Sheet](./kodak_filters.pdf)
+* [Kodak Technical Sheet](./resources/kodak_filters.pdf)
 
 ## Trichromes
 

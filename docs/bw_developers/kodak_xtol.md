@@ -3,8 +3,8 @@
 Xtol is Kodak's last developer, and many claim to be their best. Of developers commonly available, it is the most non-toxic.
 
 
-* [Kodak Technical Data Sheet](./kodak_xtol.pdf)
-* [Foma Technical Data Sheet](./foma_fomadon.pdf)
+* [Kodak Technical Data Sheet](./resources/kodak_xtol.pdf)
+* [Foma Technical Data Sheet](./resources/foma_fomadon.pdf)
 
 ## Notes
 

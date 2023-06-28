@@ -2,7 +2,7 @@
 
 Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - based in Hradec Králové, Czech Republic - makes this film.
 
-* [Technical Data Sheet](./foma_fomapan_400.pdf)
+* [Technical Data Sheet](./resources/foma_fomapan_400.pdf)
 
 ## Development
 

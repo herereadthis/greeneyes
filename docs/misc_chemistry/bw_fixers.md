@@ -19,10 +19,10 @@ There are two main types of fixers for black and white negative film development
 ## Longevity
 
 * Ilford Rapid Fixer
-  * [Techical sheet](./ilford_rapid_fixer.pdf)
+  * [Techical sheet](./resources/ilford_rapid_fixer.pdf)
   * At a dilution of 1+4, 1L of working solution will work for 24 rolls of film
   * unopened bottles will last 2 years, or 6 months after opening.
 * Foma Fomafix Rapid Non-Hardening Fixer
-  * [Technical sheet](./foma_formafix.pdf)
+  * [Technical sheet](./resources/foma_formafix.pdf)
   * 500mL bottles
   * at a dilution of 1:5, 1L of working solution will work for 17 rolls of film

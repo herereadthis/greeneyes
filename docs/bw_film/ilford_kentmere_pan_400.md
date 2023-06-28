@@ -2,7 +2,7 @@
 
 Kentmere Pan 400 is a traditional-grain, panchromatic, true ISO 400 black and white film. Consider it the budget-friendly alternative to [Ilford HP5 Plus](./ilford_hp5.md).
 
-* [Techincal Data Sheet](./ilford_kentmere_400.pdf) (July 2022)
+* [Techincal Data Sheet](./resources/ilford_kentmere_400.pdf) (July 2022)
 
 ## Compared to Ilford HP5 Plus
 
