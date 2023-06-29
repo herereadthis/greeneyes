@@ -10,5 +10,7 @@ Kentmere 400 supposedly has a thinner emulsion (less silver). Therefore, it has 
 
 ## Resources
 
-* Gregory Couch: [Review | Kentmere 400 vs. Tri-X vs. HP5 Plus](https://www.gregorycouch.com/blog/2021/5/17/review-kentmere-400-vs-tri-x-vs-hp5-plus)
-  * Useless
+* Gregory Couch: [Review | Kentmere 400 vs. Tri-X vs. HP5 Plus](https://www.gregorycouch.com/blog/2021/5/17/review-kentmere-400-vs-tri-x-vs-hp5-plus) - Useless article
+* Tahusa: [Kentmere 400 Black and White Film](https://tahusa.co/analog-film-reivew/kentmere-400/)
+  * Lower contrast, less shadow detail, higher grain compared to HP5 Plus or Tri-X
+  * Prefers pushing to 800 to increase contrast
