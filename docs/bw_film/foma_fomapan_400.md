@@ -54,6 +54,16 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <td>Adox</td>
             <td>Rodinal</td>
             <td>1:100</td>
+            <td>800</td>
+            <td>120</td>
+            <td>10</td>
+            <td>10s every 30min</td>
+            <td>Semi-stand, <a href="https://www.flickr.com/photos/bosscat2/35324412966">Flickr</a></td>
+        </tr>
+        <tr>
+            <td>Adox</td>
+            <td>Rodinal</td>
+            <td>1:100</td>
             <td>1600</td>
             <td>60</td>
             <td>30s</td>
@@ -137,6 +147,9 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
   * [Developing Adventures – Pushing Arista EDU 400 to 800](https://alysvintagecameraalley.com/2021/03/26/developing-adventures-pushing-arista-edu-400-to-800/)
     * Kodak HC-110 Dilution B (1+31), 13 minutes, initial 30s agigation, 5 every minute
     * Not as usable as pushed in DD-X
+* Studio C-41: [How I learned to stop worrying and love Fomapan 400](https://studioc41.net/2022/02/22/how-i-learned-to-stop-worrying-and-love-fomapan-400/)
+  * Rate at 200 for D-76 and HC-110 Dilution H
+  * TMax Developer 1+4, 8 mins, EI 400;
 
 ### Youtube
 

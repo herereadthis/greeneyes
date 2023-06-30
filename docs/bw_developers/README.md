@@ -10,7 +10,7 @@ Unlike the C-41 process for color negative films, there are limitless possibilit
 
 * Acufine Acufine
 * Acufine Diafine
-* Adox Rodinal
+* Adox [Rodinal](./rodinal.md)
 * [Ilford Ilfotec DD-X](./ilford_ilfotec_ddx.md)
 * Ilford Ilfosol 3
 * Ilford Microphen
