@@ -9,7 +9,7 @@
 * [Black and White Developers](./bw_developers/)
   * Adox: [Rodinal](./bw_developers/rodinal.md)
   * Ilford: [Ilfotec DD-X](./bw_developers/ilford_ilfotec_ddx.md) | Microphen | Perceptol
-  * Kodak: [T-Max (aka LegacyPro LMAX)](./bw_developers/kodak_tmax.md) | [Xtol (aka Fomadon Excel, LegacyPro EcoPro)](./bw_developers/kodak_xtol.md)
+  * Kodak: HC-110 | [T-Max (aka LegacyPro LMAX)](./bw_developers/kodak_tmax.md) | [Xtol (aka Fomadon Excel, LegacyPro EcoPro)](./bw_developers/kodak_xtol.md)
 * [C-41 (color negative) Film](./c41_film/)
   * Cinestill: 50D | 400D | 800T
   * Kodak: [Ektar 100](./c41_film/kodak_ektar_100.md) | [Gold 200](./c41_film/kodak_gold_200.md) | [Portra 160](./c41_film/kodak_portra_160.md) | [Portra 400](./c41_film/kodak_portra_400.md)

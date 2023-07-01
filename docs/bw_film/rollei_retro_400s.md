@@ -33,6 +33,26 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
     </thead>
     <tbody>
         <tr>
+            <td>Adox</td>
+            <td><a href="../bw_developers/rodinal.md">Rodinal</a></td>
+            <td>1+25</td>
+            <td>400</td>
+            <td>10.5</td>
+            <td>10</td>
+            <td>10</td>
+            <td><a href="https://www.digitaltruth.com/devchart.php?Film=Rollei+Retro+400S&Developer=Rodinal&mdc=Search&TempUnits=C&TimeUnits=D">Massive Dev Chart</a></td>
+        </tr>
+        <tr>
+            <td>Adox</td>
+            <td><a href="../bw_developers/rodinal.md">Rodinal</a></td>
+            <td>1+50</td>
+            <td>400</td>
+            <td>22</td>
+            <td>10</td>
+            <td>10</td>
+            <td><a href="https://www.digitaltruth.com/devchart.php?Film=Rollei+Retro+400S&Developer=Rodinal&mdc=Search&TempUnits=C&TimeUnits=D">Massive Dev Chart</a></td>
+        </tr>
+        <tr>
             <td>Kodak</td>
             <td><a href="../bw_developers/kodak_tmax.md">T-Max</a></td>
             <td>1:4</td>

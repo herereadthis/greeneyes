@@ -15,6 +15,7 @@ Unlike the C-41 process for color negative films, there are limitless possibilit
 * Ilford Ilfosol 3
 * Ilford Microphen
 * Ilford Perceptol
+* Kodak HC-110
 * [Kodak T-Max | LegacyPro LMAX](./kodak_tmax.md)
 * [Kodak Xtol | Fomadon Excel | LegacyPro EcoPro](./kodak_xtol.md)
 
@@ -29,6 +30,11 @@ Unlike the C-41 process for color negative films, there are limitless possibilit
 
 * Solvent developers produce finer grain by allowing the silver to distribute and form smaller clumps.
 * The tradeoff is solvent developers will appear less sharp.
+
+## Non-Solvent Developers
+
+* Non-solvent developers will produce greater apparent sharpness (accuatance) at the expense of larger grain
+* The most well known non-solvent developers are [Rodinal](./rodinal.md) and HC-110
 
 ## Agitation
 
