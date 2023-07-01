@@ -53,9 +53,9 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
             <td><a href="https://www.digitaltruth.com/devchart.php?Film=Rollei+Retro+400S&Developer=Rodinal&mdc=Search&TempUnits=C&TimeUnits=D">Massive Dev Chart</a></td>
         </tr>
         <tr>
-            <td>Ilford</td>
-            <td><a href="../bw_developers/ilford_microphen.md_">Microphen</a></td>
-            <td>stock</td>
+            <td rowspan="3">Ilford</td>
+            <td rowspan="3"><a href="../bw_developers/ilford_microphen.md">Microphen</a></td>
+            <td rowspan="3">stock</td>
             <td>400</td>
             <td>9</td>
             <td>10</td>
@@ -63,9 +63,6 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
             <td><a href="https://www.digitaltruth.com/devchart.php?Film=Rollei+Retro+400S&Developer=Microphen%25&mdc=Search&TempUnits=C&TimeUnits=D">Massive Dev Chart</a></td>
         </tr>
         <tr>
-            <td>Ilford</td>
-            <td><a href="../bw_developers/ilford_microphen.md_">Microphen</a></td>
-            <td>stock</td>
             <td>800</td>
             <td>13</td>
             <td>10</td>
@@ -73,9 +70,6 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
             <td><a href="https://www.digitaltruth.com/devchart.php?Film=Rollei+Retro+400S&Developer=Microphen%25&mdc=Search&TempUnits=C&TimeUnits=D">Massive Dev Chart</a></td>
         </tr>
         <tr>
-            <td>Ilford</td>
-            <td><a href="../bw_developers/ilford_microphen.md_">Microphen</a></td>
-            <td>stock</td>
             <td>1600</td>
             <td>17</td>
             <td>10</td>
