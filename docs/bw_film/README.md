@@ -3,6 +3,7 @@
 ## Film Guides
 
 * [CatLABS X FILM 320 Pro](./catlabs_x_film_320.md)
+* [Foma Fomapan 100 Classic (Arista EDU 100)](./foma_fomapan_100.md)
 * [Foma Fomapan Action 400 (Arista EDU 400)](./foma_fomapan_400.md)
 * [Ilford HP5 Plus](./ilford_hp5.md)
 * Ilford Delta 400

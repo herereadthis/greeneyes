@@ -2,7 +2,7 @@
 
 Microphen is a powder developer that works best with medium-to-high speed films at box speed or for push-processing.
 
-* [Technical Data Sheet](./ilford_perceptol_id-11_microphen.pdf)
+* [Technical Data Sheet](./resources/ilford_perceptol_id-11_microphen.pdf)
 * Sold as powder, to be mixed into 1-liter stock solution
 * The 1-liter stock solution can develop 10 rolls of film.
 * Adjustment time: for every additional roll, at 10% more time.

@@ -2,7 +2,7 @@
 
 * [Black and White Film](./bw_film/)
   * CatLABS: [X FILM 320 Pro](./bw_film/catlabs_x_film_320.md)
-  * Foma/Arista EDU: [Fomapan Action 400](./bw_film/foma_fomapan_400.md)
+  * Foma/Arista EDU: [Fomapan 100 Classic](./bw_film/foma_fomapan_100.md) | [Fomapan Action 400](./bw_film/foma_fomapan_400.md)
   * Ilford: Delta 400 | [HP5 Plus](./bw_film/ilford_hp5.md) | Kentmere Pan 100 | [Kentmere Pan 400](./bw_film/ilford_kentmere_pan_400.md)
   * Kodak: [Tri-X 400](./bw_film/kodak_tri-x.md)
   * Rollei: [Retro 80s](./bw_film/rollei_retro_80s.md) | [Retro 400s](./bw_film/rollei_retro_400s.md)
