@@ -33,6 +33,16 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
         <tr>
             <td>Adox</td>
             <td>Rodinal</td>
+            <td>1:49</td>
+            <td>200</td>
+            <td>11</td>
+            <td>unknown</td>
+            <td>unknown</td>
+            <td><a href="https://www.youtube.com/watch?v=AeaCZOdLSH8">Youtube</a></td>
+        </tr>
+        <tr>
+            <td>Adox</td>
+            <td>Rodinal</td>
             <td>1:25</td>
             <td>400</td>
             <td>5.5</td>
@@ -43,12 +53,12 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
         <tr>
             <td>Adox</td>
             <td>Rodinal</td>
-            <td>1:49</td>
-            <td>200</td>
-            <td>11</td>
-            <td>unknown</td>
-            <td>unknown</td>
-            <td><a href="https://www.youtube.com/watch?v=AeaCZOdLSH8">Youtube</a></td>
+            <td>1:100</td>
+            <td>400</td>
+            <td>120</td>
+            <td>60</td>
+            <td>10s every 30min</td>
+            <td>Semi-stand, <a href="https://www.digitaltruth.com/devchart.php?devrow=9950">MDC</a></td>
         </tr>
         <tr>
             <td>Adox</td>
@@ -118,7 +128,7 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <td>8</td>
             <td>5/5 * 2</td>
             <td>5/5 * 2</td>
-            <td><a href="https://www.digitaltruth.com/devchart.php?Film=Fomapan+400&Developer=TMax+Dev%25&mdc=Search&TempUnits=C&TimeUnits=D">MDC</a>, <a href="https://www.flickr.com/photos/axle81401/26081179707">Flickr</a></td>
+            <td><a href="https://www.digitaltruth.com/devchart.php?Film=Fomapan+400&Developer=TMax+Dev%25&mdc=Search&TempUnits=C&TimeUnits=D">MDC</a>, <a href="https://www.flickr.com/photos/axle81401/26081179707">Flickr</a>, <a href="http://www.alexluyckx.com/blog/2018/05/23/ccrfrb-review-15-fomapan-400/">Luyckx</a></td>
         </tr>
         <tr>
             <td>Kodak</td>
@@ -158,6 +168,7 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
   * Higher contrast than Ilford HP5+
   * In Rodinal, it has a "dark and moody" look: deep rich shadows, highlight compression
   * Develop with Microphen stock to do ISO 400, 8-9 minutes
+  * Does not recommend Rodinal 1+49 EI 400 11 minutes
 * Film Photography: [Fomapan 400 push processed to 3200](https://www.youtube.com/watch?v=4HhYUqQoIIY)
   * Exposed at ISO 3200, Developed in Rodinal 1+25, 20&deg; (25 minutes)
 * Kyle McDougall: [Is this the best budget B&W film? // Fomapan 400 Review](https://www.youtube.com/watch?v=eOMbOX7marw)
