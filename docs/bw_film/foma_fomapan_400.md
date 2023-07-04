@@ -63,12 +63,22 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
         <tr>
             <td>Adox</td>
             <td>Rodinal</td>
-            <td>1:100</td>
+            <td>1+50</td>
             <td>800</td>
-            <td>120</td>
+            <td>19</td>
             <td>10</td>
-            <td>10s every 30min</td>
-            <td>Semi-stand, <a href="https://www.flickr.com/photos/bosscat2/35324412966">Flickr</a></td>
+            <td>10</td>
+            <td><a href="https://photo-analogue.blogspot.com/2015/12/fomapan-400.html">Photo-Analogue</a>: good results</td>
+        </tr>
+        <tr>
+            <td>Adox</td>
+            <td>Rodinal</td>
+            <td>1+50</td>
+            <td>1600</td>
+            <td>24</td>
+            <td>10</td>
+            <td>10</td>
+            <td><a href="https://photo-analogue.blogspot.com/2015/12/fomapan-400.html">Photo-Analogue</a>: usable results</td>
         </tr>
         <tr>
             <td>Adox</td>
@@ -160,6 +170,10 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
 * Studio C-41: [How I learned to stop worrying and love Fomapan 400](https://studioc41.net/2022/02/22/how-i-learned-to-stop-worrying-and-love-fomapan-400/)
   * Rate at 200 for D-76 and HC-110 Dilution H
   * TMax Developer 1+4, 8 mins, EI 400;
+* Photo-Analogue: [Fomapan 400](https://photo-analogue.blogspot.com/2015/12/fomapan-400.html)
+  * Rodinal 1+25, 6 mins: EI 200 looks best, EI 400 is thin, EI 800 loses shadow detail, EI 1600 nearly useless
+  * Rodinal 1+50, 19 mins: good negatives at EI 800 under good lighting conditions
+  * Rodinal 1+50, 24 minutes: usable negatives at EI 1600
 
 ### Youtube
 
@@ -207,7 +221,7 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
   * Walk Like Alice [POV black & white FILM PHOTOGRAPHY | Ilford HP5 and Fomapan...](https://www.youtube.com/watch?v=MYWAFSzgWdc) | it scans well
   * Zij. Li: [Paris with Fomapan 400 + 2 Stop Pushing](https://www.youtube.com/watch?v=znbMa66oihg) | just a slideshow
 
-  ### Reddit
+### Reddit
 
   * [Any toughts on this fomapan 400 pushed till 3200?](https://www.reddit.com/r/Darkroom/comments/tastyq/any_toughts_on_this_fomapan_400_pushed_till_3200/)
     * Semi Stand Rodinal 1:100 Rodinal, EI 3200

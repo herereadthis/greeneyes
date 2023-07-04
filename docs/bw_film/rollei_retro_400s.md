@@ -76,6 +76,7 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
             <td>10</td>
             <td><a href="https://www.digitaltruth.com/devchart.php?Film=Rollei+Retro+400S&Developer=Microphen%25&mdc=Search&TempUnits=C&TimeUnits=D">Massive Dev Chart</a></td>
         </tr>
+        <!--
         <tr>
             <td>Kodak</td>
             <td><a href="../bw_developers/kodak_tmax.md">T-Max</a></td>
@@ -96,6 +97,7 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
             <td>5/30</td>
             <td><a href="https://www.digitaltruth.com/devchart.php?Film=Rollei+Retro+400S&Developer=TMax+Dev%25&mdc=Search&TempUnits=C&TimeUnits=D">Massive Dev Chart</a></td>
         </tr>
+        -->
         <tr>
             <td>Kodak</td>
             <td><a href="../bw_developers/kodak_tmax.md">T-Max</a></td>
@@ -104,7 +106,7 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
             <td>9</td>
             <td>5</td>
             <td>5/30</td>
-            <td><a href="http://www.alexluyckx.com/blog/2018/01/16/ccrfrb-review-02-japan-camera-hunter-streetpan-400/">Alex Luyckx</a></td>
+            <td><a href="http://www.alexluyckx.com/blog/2018/01/16/ccrfrb-review-02-japan-camera-hunter-streetpan-400/">Alex Luyckx</a> (but datasheet recommends 7 mins.</td>
         </tr>
         <tr>
             <td>Kodak</td>
@@ -128,6 +130,8 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
         </tr>
     </tbody>
 </table>
+
+* **5/50** - 5 second inversion every 30 seconds
 
 ## Reviews
 

@@ -12,6 +12,15 @@ Lomography claims you can rate it anywhere from ISO 100 to 400. As with most col
 
 The original manufacturer of Lomochrome Purpole is unknown.
 
+## What is the color swap?
+
+* Color film is made of several layers, including a red-, green-, and blue-sensitive layer.
+* When developed, they leave behind a color dye.
+  * The red-sensitive layer leaves behind cyan in the positive image
+  * The green-sensitive layer leaves behind magenta
+  * The blue-sensitive layer leaves behind yellow
+* Essentially, Lomochrome Purple swaps the green and blue channels
+
 ## Resources
 
 * Lomography
