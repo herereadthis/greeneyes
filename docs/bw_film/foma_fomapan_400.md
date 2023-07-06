@@ -16,82 +16,78 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <th>Time</th>
             <th>1st Min Agit.</th>
             <th>Agit every min</th>
-            <th>Notes</th>
+            <th>Source</th>
+            <th>Tested</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Adox</td>
-            <td>Rodinal</td>
+            <td rowspan="7">Adox</td>
+            <td rowspan="7">Rodinal</td>
             <td>1:25</td>
             <td>100</td>
             <td>4</td>
             <td>unknown</td>
             <td>unknown</td>
             <td><a href="https://www.youtube.com/watch?v=m6wie6rtOeg">Youtube</a></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Adox</td>
-            <td>Rodinal</td>
-            <td>1:49</td>
-            <td>200</td>
-            <td>11</td>
-            <td>unknown</td>
-            <td>unknown</td>
-            <td><a href="https://www.youtube.com/watch?v=AeaCZOdLSH8">Youtube</a></td>
-        </tr>
-        <tr>
-            <td>Adox</td>
-            <td>Rodinal</td>
             <td>1:25</td>
             <td>400</td>
             <td>5.5</td>
             <td>unknown</td>
             <td>unknown</td>
             <td><a href="https://www.youtube.com/watch?v=m6wie6rtOeg">Youtube</a></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Adox</td>
-            <td>Rodinal</td>
+            <td>1:49</td>
+            <td>200</td>
+            <td>11</td>
+            <td>unknown</td>
+            <td>unknown</td>
+            <td><a href="https://www.youtube.com/watch?v=AeaCZOdLSH8">Youtube</a></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>1:100</td>
             <td>400</td>
             <td>120</td>
             <td>60</td>
             <td>10s every 30min</td>
             <td>Semi-stand, <a href="https://www.digitaltruth.com/devchart.php?devrow=9950">MDC</a></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Adox</td>
-            <td>Rodinal</td>
             <td>1+50</td>
             <td>800</td>
             <td>19</td>
             <td>10</td>
             <td>10</td>
             <td><a href="https://photo-analogue.blogspot.com/2015/12/fomapan-400.html">Photo-Analogue</a>: good results</td>
+            <td></td>
         </tr>
         <tr>
-            <td>Adox</td>
-            <td>Rodinal</td>
             <td>1+50</td>
             <td>1600</td>
             <td>24</td>
             <td>10</td>
             <td>10</td>
             <td><a href="https://photo-analogue.blogspot.com/2015/12/fomapan-400.html">Photo-Analogue</a>: usable results</td>
+            <td></td>
         </tr>
         <tr>
-            <td>Adox</td>
-            <td>Rodinal</td>
             <td>1:100</td>
             <td>1600</td>
             <td>60</td>
             <td>30s</td>
             <td>10s @ 30min</td>
             <td><a href="https://www.reddit.com/r/Darkroom/comments/tastyq/any_toughts_on_this_fomapan_400_pushed_till_3200/">Reddit</a></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Ilford</td>
+            <td rowspan="2">Ilford</td>
             <td>Ilfotec DD-X</td>
             <td>1+9</td>
             <td>800</td>
@@ -99,9 +95,9 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <td>60s</td>
             <td>10s</td>
             <td><a href="https://alysvintagecameraalley.com/2021/02/24/developing-adventures-pushing-fomapan-400/">Blog</a></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Ilford</td>
             <td>Microphen</td>
             <td>Stock</td>
             <td>400</td>
@@ -109,39 +105,46 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <td>unknown</td>
             <td>unknown</td>
             <td><a href="https://www.youtube.com/watch?v=AeaCZOdLSH8">Youtube</a></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Kodak</td>
-            <td>HC-110</td>
-            <td>1+31</td>
+            <td rowspan="5">Kodak</td>
+            <td rowspan="2">HC-110</td>
+            <td rowspan="2">1+31</td>
             <td>800</td>
             <td>9</td>
             <td>30s</td>
             <td>10s</td>
             <td><a href="https://alysvintagecameraalley.com/2021/03/26/developing-adventures-pushing-arista-edu-400-to-800/">Blog</a></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Kodak</td>
-            <td>HC-110</td>
-            <td>1+31</td>
             <td>1600</td>
             <td>13</td>
             <td>30s</td>
             <td>10s</td>
             <td><a href="https://alysvintagecameraalley.com/2021/03/08/pushing-fomapan-400-to-1600/">Blog</a></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Kodak</td>
-            <td><a href="../bw_developers/kodak_tmax.md">T-Max</a></td>
-            <td>1+4</td>
+            <td rowspan="2"><a href="../bw_developers/kodak_tmax.md">T-Max</a></td>
+            <td rowspan="2">1+4</td>
+            <td>250</td>
+            <td>5</td>
+            <td>5/5 * 2</td>
+            <td>5/5 * 2</td>
+            <td>Guesswork</td>
+            <td>Contrasty negatives</td>
+        </tr>
+        <tr>
             <td>400</td>
             <td>8</td>
             <td>5/5 * 2</td>
             <td>5/5 * 2</td>
             <td><a href="https://www.digitaltruth.com/devchart.php?Film=Fomapan+400&Developer=TMax+Dev%25&mdc=Search&TempUnits=C&TimeUnits=D">MDC</a>, <a href="https://www.flickr.com/photos/axle81401/26081179707">Flickr</a>, <a href="http://www.alexluyckx.com/blog/2018/05/23/ccrfrb-review-15-fomapan-400/">Luyckx</a></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Kodak</td>
             <td>Xtol</td>
             <td>Stock</td>
             <td>1600</td>
@@ -149,6 +152,7 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <td>unknown</td>
             <td>unknown</td>
             <td><a href="https://www.youtube.com/watch?v=puTMQ5Odo9g">Youtube</a></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -174,6 +178,8 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
   * Rodinal 1+25, 6 mins: EI 200 looks best, EI 400 is thin, EI 800 loses shadow detail, EI 1600 nearly useless
   * Rodinal 1+50, 19 mins: good negatives at EI 800 under good lighting conditions
   * Rodinal 1+50, 24 minutes: usable negatives at EI 1600
+* Studio C-41: [How I learned to stop worrying and love Fomapan 400](https://studioc41.net/2022/02/22/how-i-learned-to-stop-worrying-and-love-fomapan-400/)
+  * TMax Developer 1+4, EI 400, 8 mins., 
 
 ### Youtube
 

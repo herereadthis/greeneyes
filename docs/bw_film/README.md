@@ -24,6 +24,18 @@ The only t-grain films are the Kodak T-Max line, Ilford Delta line, Fuji Acros, 
 
 Compared against cubic-grain films, t-grain films are sharper and have less apparent grain. The advantages of cubic grain films are they have more latitude and and are more forgiving. Subjectively, cubic-grain films have a more "film-like" appearance.
 
+## Who makes the film?
+
+There really aren't too many companies that actually produce black and white film anymore. However, there are tons of brands. The majority are placing custom orders or respooling film from other companies.
+
+* Kodak
+* Ilford (produces Kentmere)
+* Adox (produces Agfa)
+* Foma (produces Arista)
+* Bergger
+* Film Ferrania
+* Orwo
+
 ## Pricing
 
 ### 35mm, 36 exposures
