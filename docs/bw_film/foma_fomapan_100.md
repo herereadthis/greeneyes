@@ -10,6 +10,9 @@ Fomapan 100 is a traditional grained, true 100-speed film.
 ## Resources
 
 * Youtube
+  * Aperture Dundee: [One of the BEST VALUE Film Stocks you can Buy](https://www.youtube.com/watch?v=UEf3KvQ-XKc)
+    * noticed some halation
+    * Intense film curling makes scanning "tedious"
   * Brian's Photo Show: [What works for me: Fomapan 100](https://www.youtube.com/watch?v=Mt0ob5wiuVg)
     * Go-to film, believes this is the best product that Foma makes
       * Rate at EI 80: Rodinal 1+49 9 mins., Perceptol 1+3 15 min., Microphen 1+3 14 mins.
