@@ -33,8 +33,8 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
     </thead>
     <tbody>
         <tr>
-            <td>Adox</td>
-            <td><a href="../bw_developers/rodinal.md">Rodinal</a></td>
+            <td rowspan="2">Adox</td>
+            <td rowspan="2"><a href="../bw_developers/rodinal.md">Rodinal</a></td>
             <td>1+25</td>
             <td>400</td>
             <td>10.5</td>
@@ -43,8 +43,6 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
             <td><a href="https://www.digitaltruth.com/devchart.php?Film=Rollei+Retro+400S&Developer=Rodinal&mdc=Search&TempUnits=C&TimeUnits=D">Massive Dev Chart</a></td>
         </tr>
         <tr>
-            <td>Adox</td>
-            <td><a href="../bw_developers/rodinal.md">Rodinal</a></td>
             <td>1+50</td>
             <td>400</td>
             <td>22</td>
@@ -99,8 +97,8 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
         </tr>
         -->
         <tr>
-            <td>Kodak</td>
-            <td><a href="../bw_developers/kodak_tmax.md">T-Max</a></td>
+            <td rowspan="3">Kodak</td>
+            <td rowspan="3"><a href="../bw_developers/kodak_tmax.md">T-Max</a></td>
             <td>1:4</td>
             <td>400</td>
             <td>9</td>
@@ -109,8 +107,6 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
             <td><a href="http://www.alexluyckx.com/blog/2018/01/16/ccrfrb-review-02-japan-camera-hunter-streetpan-400/">Alex Luyckx</a> (but datasheet recommends 7 mins.</td>
         </tr>
         <tr>
-            <td>Kodak</td>
-            <td>T-Max</td>
             <td>1:9</td>
             <td>400</td>
             <td>10</td>
@@ -119,8 +115,6 @@ Rollei Retro 400s is super-panchromatic film with a suggested exposure rating of
             <td><a href="https://www.rolleianalog.com/wp-content/uploads/2021/07/Retro400S_Data-Sheet_EN_R210701.pdf">Datasheet</a></td>
         </tr>
         <tr>
-            <td>Kodak</td>
-            <td>T-Max</td>
             <td>1:9</td>
             <td>800</td>
             <td>18</td>

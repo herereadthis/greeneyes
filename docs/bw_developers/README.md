@@ -10,7 +10,8 @@ Unlike the C-41 process for color negative films, there are limitless possibilit
 
 * Acufine Acufine
 * Acufine Diafine
-* Adox [Rodinal](./rodinal.md)
+* [Adox Atomal 49](./adox_atomal_49.md)
+* [Adox Rodinal](./adox_rodinal.md)
 * [Ilford Ilfotec DD-X](./ilford_ilfotec_ddx.md)
 * Ilford Ilfosol 3
 * [Ilford Microphen](./ilford_microphen.md)
@@ -34,7 +35,7 @@ Unlike the C-41 process for color negative films, there are limitless possibilit
 ## Non-Solvent Developers
 
 * Non-solvent developers will produce greater apparent sharpness (accuatance) at the expense of larger grain
-* The most well known non-solvent developers are [Rodinal](./rodinal.md) and HC-110
+* The most well known non-solvent developers are [Rodinal](./adox_rodinal.md) and HC-110
 
 ## Agitation
 

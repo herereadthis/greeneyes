@@ -22,9 +22,20 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
     </thead>
     <tbody>
         <tr>
-            <td rowspan="7">Adox</td>
-            <td rowspan="7">Rodinal</td>
-            <td>1:25</td>
+            <td rowspan="8">Adox</td>
+            <td><a href="../bw_developers/adox_atomal_49.md">Atomal 49</td>
+            <td>Stock</td>
+            <td>400</td>
+            <td>10</td>
+            <td>constant</td>
+            <td>10</td>
+            <td><a href="http://www.alexluyckx.com/blog/2022/01/07/foma52-fifty-two-weeks-fifty-two-images/">Alex Luyckx</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td">Adox</td>
+            <td rowspan="7"><a href="../bw_developers/adox_rodinal.md">Rodinal</a></td>
+            <td>1+25</td>
             <td>100</td>
             <td>4</td>
             <td>unknown</td>
@@ -33,7 +44,7 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <td></td>
         </tr>
         <tr>
-            <td>1:25</td>
+            <td>1+25</td>
             <td>400</td>
             <td>5.5</td>
             <td>unknown</td>
@@ -42,12 +53,12 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
             <td></td>
         </tr>
         <tr>
-            <td>1:49</td>
+            <td>1+50</td>
             <td>200</td>
             <td>11</td>
-            <td>unknown</td>
-            <td>unknown</td>
-            <td><a href="https://www.youtube.com/watch?v=AeaCZOdLSH8">Youtube</a></td>
+            <td>constant</td>
+            <td>10</td>
+            <td><a href="https://www.youtube.com/watch?v=AeaCZOdLSH8">Youtube</a>, <a href="http://www.alexluyckx.com/blog/2022/01/07/foma52-fifty-two-weeks-fifty-two-images/">Alex Luyckx</a></td>
             <td></td>
         </tr>
         <tr>
@@ -156,6 +167,13 @@ Fomapan 400 is a panchromatic black and white film. The company, Foma Bohemia - 
         </tr>
     </tbody>
 </table>
+
+## Reciprocity Failure
+<!-- source
+http://www.film-and-darkroom-user.org.uk/forum/showthread.php?t=12739
+-->
+
+
 
 
 ## Reviews

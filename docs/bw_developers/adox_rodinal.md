@@ -1,6 +1,6 @@
-# Rodinal
+# Adox Rodinal
 
-Rodinal is one of the oldest and still one of the best developers.
+Rodinal is one of the oldest and still one of the best developers. It was originally produced by Agfa, but now Adox makes it.
 
 * High apparent sharpness, a.k.a. "accutance"
 * Tradeoff is larger grain
