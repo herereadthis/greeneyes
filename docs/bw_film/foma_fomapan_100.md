@@ -6,6 +6,8 @@ Fomapan 100 is a traditional grained, true 100-speed film.
 * Compared to Tri-X, the grain is slightly smaller than Tri-X, and large than T-Max 100.
 * More constrast than Ilford FP4 ([source](https://www.youtube.com/watch?v=Mt0ob5wiuVg))
 * Does not do well with push-processing, unless in truly dull conditions
+* There is some halation around highlights
+* Film curl does make scanning a bit difficult
 
 ## Resources
 

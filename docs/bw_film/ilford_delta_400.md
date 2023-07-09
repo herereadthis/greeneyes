@@ -26,6 +26,17 @@ Delta 400 is a panchromatic, tabular-grain, true 400 speed black and white film.
     </thead>
     <tbody>
         <tr>
+            <td>Adox</td>
+            <td><a href="../bw_developers/adox_rodinal.md">Rodinal</a></td>
+            <td>1_25</td>
+            <td>400</td>
+            <td>9</td>
+            <td>10</td>
+            <td>10</td>
+            <td><a href="./resources/ilford_delta_400.pdf">Datasheet</a></td>
+            <td></td>
+        </tr>
+        <tr>
             <td rowspan="8">Ilford</td>
             <td rowspan="4"><a href="../bw_developers/ilford_ilfotec_ddx.md">DD-X</td>
             <td rowspan="4">1+4</td>
@@ -74,13 +85,13 @@ Delta 400 is a panchromatic, tabular-grain, true 400 speed black and white film.
             <td></td>
         </tr>
         <tr>
-            <td rowspan="4">Kodak</td>
+            <td rowspan="8">Kodak</td>
             <td rowspan="4"><a href="../bw_developers/kodak_tmax.md">T-Max</td>
             <td rowspan="4">1+4</td>
             <td>400</td>
             <td>6.5</td>
-            <td rowspan="4">5/30</td>
-            <td rowspan="4">5/30</td>
+            <td rowspan="4">10</td>
+            <td rowspan="4">10</td>
             <td rowspan="4"><a href="./resources/ilford_delta_400.pdf">Datasheet</a></td>
             <td></td>
         </tr>
@@ -97,6 +108,31 @@ Delta 400 is a panchromatic, tabular-grain, true 400 speed black and white film.
         <tr>
             <td>3200</td>
             <td>13.5</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="4"><a href="../bw_developers/kodak_xtol.md">Xtol</td>
+            <td rowspan="4">1+4</td>
+            <td>400</td>
+            <td>7.5</td>
+            <td rowspan="4">10</td>
+            <td rowspan="4">10</td>
+            <td rowspan="4"><a href="./resources/ilford_delta_400.pdf">Datasheet</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>800</td>
+            <td>10</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1600</td>
+            <td>13</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3200</td>
+            <td>17</td>
             <td></td>
         </tr>
     </tbody>

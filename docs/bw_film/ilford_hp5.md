@@ -2,7 +2,7 @@
 
 Ilford HP5+ is a cubic-grain film that is very forgiving and has a wide latitude.
 
-* [Technical Data Sheet](./resources/ilford_hp5.md)
+* [Technical Data Sheet](./resources/ilford_hp5.pdf)
 * It is a true 400 speed film.
 
 ## Compared to Kodak Tri-X
@@ -26,7 +26,7 @@ Ilford HP5+ is a cubic-grain film that is very forgiving and has a wide latitude
     </thead>
     <tbody>
         <tr>
-            <td>Adox</td>
+            <td rowspan="3">Adox</td>
             <td><a href="../bw_developers/adox_atomal_49.md">Atomal 49</td>
             <td>Stock</td>
             <td>400</td>
@@ -37,47 +37,114 @@ Ilford HP5+ is a cubic-grain film that is very forgiving and has a wide latitude
             <td></td>
         </tr>
         <tr>
-            <td>Kodak</td>
-            <td>Xtol</td>
-            <td>1+1</td>
+            <td rowspan="2"><a href="../bw_developers/adox_rodinal.md">Rodinal</a></td>
+            <td rowspan="2">1+25</td>
+            <td>400</td>
+            <td>6</td>
+            <td rowspan="2">10</td>
+            <td rowspan="2">10</td>
+            <td rowspan="2"><a href="./resources/ilford_hp5.pdf">Datasheet</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>800</td>
+            <td>8</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="4">Ilford</td>
+            <td rowspan="4"><a href="../bw_developers/ilford_microphen.md">Microphen</a></td>
+            <td rowspan="4">1+4</td>
+            <td>400</td>
+            <td>6.5</td>
+            <td rowspan="4">10</td>
+            <td rowspan="4">10</td>
+            <td rowspan="4"><a href="./resources/ilford_hp5.pdf">Datasheet</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>800</td>
+            <td>8</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1600</td>
+            <td>11</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3200</td>
+            <td>16</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="11">Kodak</td>
+            <td rowspan="4"><a href="../bw_developers/kodak_tmax.md">T-Max</a></td>
+            <td rowspan="4">1+4</td>
+            <td>400</td>
+            <td>6.5</td>
+            <td rowspan="4">10</td>
+            <td rowspan="4">10</td>
+            <td rowspan="4"><a href="./resources/ilford_hp5.pdf">Datasheet</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>800</td>
+            <td>8</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1600</td>
+            <td>9.5</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3200</td>
+            <td>11.5</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="7"><a href="../bw_developers/kodak_xtol.md">Xtol</a></td>
+            <td rowspan="4">stock</td>
+            <td>400</td>
+            <td>8</td>
+            <td rowspan="4">10</td>
+            <td rowspan="4">10</td>
+            <td rowspan="4"><a href="./resources/ilford_hp5.pdf">Datasheet</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>800</td>
+            <td>11</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1600</td>
+            <td>14</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3200</td>
+            <td>19</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="3">1+1</td>
             <td>320</td>
             <td>7</td>
-            <td>30s</td>
-            <td>3/30</td>
-            <td><a href="https://unblinkingeye.com/Articles/Times/HP5/hp5.html">Unblinking Eye</a></td>
+            <td rowspan="3">30s</td>
+            <td rowspan="3">3/30</td>
+            <td rowspan="3"><a href="https://unblinkingeye.com/Articles/Times/HP5/hp5.html">Unblinking Eye</a></td>
             <td></td>
         </tr>
         <tr>
-            <td>Kodak</td>
-            <td>Xtol</td>
-            <td>1+1</td>
             <td>400</td>
             <td>8.5</td>
-            <td>30s</td>
-            <td>3/30</td>
-            <td><a href="https://unblinkingeye.com/Articles/Times/HP5/hp5.html">Unblinking Eye</a></td>
             <td></td>
         </tr>
         <tr>
-            <td>Kodak</td>
-            <td>Xtol</td>
-            <td>1+1</td>
             <td>500</td>
             <td>11.5</td>
-            <td>30s</td>
-            <td>3/30</td>
-            <td><a href="https://unblinkingeye.com/Articles/Times/HP5/hp5.html">Unblinking Eye</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>asdf</td>
-            <td>asdf</td>
-            <td>asdf</td>
-            <td>asdf</td>
-            <td>asdf</td>
-            <td>asdf</td>
-            <td>asdf</td>
-            <td><a href="hasdfasdf">asdf</a></td>
             <td></td>
         </tr>
     </tbody>
