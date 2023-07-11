@@ -15,7 +15,7 @@ Unlike the C-41 process for color negative films, there are limitless possibilit
 * [Ilford Ilfotec DD-X](./ilford_ilfotec_ddx.md)
 * Ilford Ilfosol 3
 * [Ilford Microphen](./ilford_microphen.md)
-* Ilford Perceptol
+* [Ilford Perceptol](./ilford_perceptol.md)
 * Kodak HC-110
 * [Kodak T-Max | LegacyPro LMAX](./kodak_tmax.md)
 * [Kodak Xtol | Fomadon Excel | LegacyPro EcoPro](./kodak_xtol.md)

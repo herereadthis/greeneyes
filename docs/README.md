@@ -4,13 +4,14 @@
   * Agfa: [APX 400](./bw_film/agfa_apx_400.md)
   * CatLABS: [X FILM 320 Pro](./bw_film/catlabs_x_film_320.md)
   * Foma/Arista EDU: [Fomapan 100 Classic](./bw_film/foma_fomapan_100.md) | [Fomapan Action 400](./bw_film/foma_fomapan_400.md)
+  * Fujifilm: [Neopan Acros II](./bw_film/fujifilm_neopan_acros_100_ii.md)
   * Ilford: [Delta 400](./bw_film/ilford_delta_400.md) | [HP5 Plus](./bw_film/ilford_hp5.md)
   * Kentmere: Pan 100 | [Pan 400](./bw_film/kentmere_pan_400.md)
   * Kodak: [Tri-X 400](./bw_film/kodak_tri-x.md)
   * Rollei: [Retro 80s](./bw_film/rollei_retro_80s.md) | [Retro 400s](./bw_film/rollei_retro_400s.md)
 * [Black and White Developers](./bw_developers/)
   * Adox: [Atomal 49](./bw_developers/adox_atomal_49.md) | [Rodinal](./bw_developers/adox_rodinal.md)
-  * Ilford: [Ilfotec DD-X](./bw_developers/ilford_ilfotec_ddx.md) | [Microphen](./bw_developers/ilford_microphen.md) | Perceptol
+  * Ilford: [Ilfotec DD-X](./bw_developers/ilford_ilfotec_ddx.md) | [Microphen](./bw_developers/ilford_microphen.md) | [Perceptol](./bw_developers/ilford_perceptol.md)
   * Kodak: HC-110 | [T-Max (aka LegacyPro LMAX)](./bw_developers/kodak_tmax.md) | [Xtol (aka Fomadon Excel, LegacyPro EcoPro)](./bw_developers/kodak_xtol.md)
 * [C-41 (color negative) Film](./c41_film/)
   * Cinestill: 50D | 400D | 800T

@@ -96,3 +96,12 @@ Tmax DEV 1+4 9.5 min
         </tr>
     </tbody>
 </table>
+
+## Reviews
+
+### Blogs
+
+* Alex Luyckx: [](http://www.alexluyckx.com/blog/2023/02/13/film-review-blog-no-92-catlabs-xfilm-320-pro/)
+  * Rodinal 1+25, 9 mins: more grain but otherwise looks good and contrasty
+  * Film dries very flat
+  * Also looks good in 510 Pyro
